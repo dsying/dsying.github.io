@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>dsying blogs</title>
+  <title>DSYING</title>
   
-  
+  <subtitle>DingSheng&#39;s Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-25T06:55:11.000Z</updated>
+  <updated>2018-08-25T12:51:03.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Ding Sheng</name>
+    <name>[object Object]</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>开博大吉</title>
+    <title>Hello World</title>
     <link href="http://yoursite.com/2018/08/25/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/"/>
     <id>http://yoursite.com/2018/08/25/开博大吉/</id>
     <published>2018-08-25T06:55:11.000Z</published>
-    <updated>2018-08-25T06:55:11.000Z</updated>
+    <updated>2018-08-25T12:51:03.000Z</updated>
     
     <summary type="html">
     
